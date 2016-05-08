@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[thebarkingtrout]]></title>
         <description><![CDATA[thebarkingtrout]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thebarkingtrout/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 16:56:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 17:03:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thebarkingtrout/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>She propels herself eastward in the dark blue of the Indian Ocean, along the western lip of the Great Australian Bight. Cruising at ten miles per hour, three hundred feet below sea level, the eight foot southern bluefin tuna has not stopped moving since her birth thirty years ago. Her ventilation system requires that water be pushed through her gaping mouth and over her gills to provide her long muscles with oxygen. The faster she swims, the more oxygen her giant body reaps: a feedback system that makes it nearly impossible for any sardine to escape.</p>]]></description>
-            <link>undefinedshe-propels-herself-eastward-in-the-dark-blue-of-the-indian/index.html</link>
+            <link>https://thegrid.ai/thebarkingtrout/she-propels-herself-eastward-in-the-dark-blue-of-the-indian/index.html</link>
             <guid isPermaLink="false">6f87b728-d28d-4763-8ded-7160fdc8d293</guid>
-            <pubDate>Sun, 08 May 2016 16:55:51 GMT</pubDate>
+            <pubDate>Sun, 08 May 2016 17:03:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
