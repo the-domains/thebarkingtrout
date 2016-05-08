@@ -1,7 +1,7 @@
 name: thebarkingtrout
 favicon: null
 layout_spectrum: 0.73119
-typography_spectrum: 0.1424457614775747
+typography_spectrum: 0.72443
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.23632831033319235
+  brandStrength: 0.4375
   lightness: 0.035281507996842265
   saturation: 0.13313491363078356
   rhythmicContrast: 0.39652994251810014
