@@ -5,22 +5,24 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'She propels herself eastward in the dark blue of the Indian Ocean, along the western lip of the Great Australian Bight. Cruising at ten miles per hour, three hundred feet below sea level, the eight foot southern bluefin tuna has not stopped moving since her birth thirty years ago. Her ventilation system requires that water be pushed through her gaping mouth and over her gills to provide her long muscles with oxygen. The faster she swims, the more oxygen her giant body reaps: a feedback system that makes it nearly impossible for any sardine to escape.'
-datePublished: '2016-05-08T16:55:51.004Z'
-dateModified: '2016-05-08T16:55:40.104Z'
+datePublished: '2016-05-08T17:03:48.617Z'
+dateModified: '2016-05-08T17:00:15.730Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-08-she-propels-herself-eastward-in-the-dark-blue-of-the-indian.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-08-she-propels-herself-eastward-in-the-dark-blue-of-the-indian.md
 url: she-propels-herself-eastward-in-the-dark-blue-of-the-indian/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1f5ee7d-d373-4392-b206-9a0ad5ea8cf6.jpg)
+
 She propels herself eastward in the dark blue of the Indian Ocean, along the western lip of the Great Australian Bight. Cruising at ten miles per hour, three hundred feet below sea level, the eight foot southern bluefin tuna has not stopped moving since her birth thirty years ago. Her ventilation system requires that water be pushed through her gaping mouth and over her gills to provide her long muscles with oxygen. The faster she swims, the more oxygen her giant body reaps: a feedback system that makes it nearly impossible for any sardine to escape.
 
 It being the end of the southern summer, this tuna has just left a pocket of the Indian Ocean nestled between Indonesia and Australia, where she would had delivered up to 15 million eggs. This expanse of ocean is the sole known spawning grounds for the southern bluefin, yet it remains unknown how many years will pass before she spawns again.
